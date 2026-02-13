@@ -1,6 +1,6 @@
 <h2 align="left">Olá! Seja bem vindo ao meu Git Hub</h2>
-<p>nome:Lucas</p>
-<p>curso:Desenvolvimento de Sistema</p>
+<p>Lucas</p>
+<p>Desenvolvimento de Sistema</p>
 
 ###
 
