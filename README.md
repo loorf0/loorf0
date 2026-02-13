@@ -18,7 +18,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img src="https://images.icon-icons.com/2415/PNG/512/python_original_logo_icon_146381.png"  height="30" alt="python logo"  />
 </div>
-
+<h2>HOBBY</h2>
+<p>programar</p>
+<p>jogar</p>
+<p>treinar</p>
 ###
 
 <div align="left">
