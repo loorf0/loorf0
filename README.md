@@ -22,7 +22,6 @@
 <p>programar</p>
 <p>jogar</p>
 <p>treinar</p>
-###
 
 <div align="left">
   <a href="https://www.instagram.com/lucas.iosx/" target="_blank">
